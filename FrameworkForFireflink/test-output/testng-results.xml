@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Framework successfully executed]]>
+    </line>
+    <line>
+      <![CDATA[executionpassed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-03T18:24:09 IST" name="Default suite" finished-at="2024-09-03T18:24:45 IST" duration-ms="35086">
+    <groups>
+    </groups>
+    <test started-at="2024-09-03T18:24:09 IST" name="Default test" finished-at="2024-09-03T18:24:45 IST" duration-ms="35086">
+      <class name="com.fireflink.testscripts.ExecutionClass">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.fireflink.testscripts.ExecutionClass@6fdbe764]" started-at="2024-09-03T18:24:09 IST" name="openBrowser" finished-at="2024-09-03T18:24:33 IST" duration-ms="23273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.fireflink.testscripts.ExecutionClass@6fdbe764]" started-at="2024-09-03T18:24:33 IST" name="login" finished-at="2024-09-03T18:24:39 IST" duration-ms="5923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="execution()[pri:0, instance:com.fireflink.testscripts.ExecutionClass@6fdbe764]" started-at="2024-09-03T18:24:39 IST" name="execution" finished-at="2024-09-03T18:24:39 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Framework successfully executed]]>
+            </line>
+            <line>
+              <![CDATA[executionpassed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- execution -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.fireflink.testscripts.ExecutionClass@6fdbe764]" started-at="2024-09-03T18:24:39 IST" name="logout" finished-at="2024-09-03T18:24:42 IST" duration-ms="3296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.fireflink.testscripts.ExecutionClass@6fdbe764]" started-at="2024-09-03T18:24:42 IST" name="closebrowser" finished-at="2024-09-03T18:24:45 IST" duration-ms="2481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.fireflink.testscripts.ExecutionClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
